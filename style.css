@@ -1,0 +1,10 @@
+.nr {
+    color: green;
+    background-color: red;
+}
+
+.carousel-item img {
+    width: 600x;
+    height: 800px;
+
+}
